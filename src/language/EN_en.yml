@@ -1,0 +1,6 @@
+message:
+  WrongArguments: '&cThe command you have entered contains wrong arguments.'
+  GivePlayer: '&aThe player #PLAYER# received #TERRACOTTA#(#AMOUNT#) terracotta blocks.'
+  PlayerNotOnline: '&cThe player #PLAYER# is not online.'
+  TerracottaNotFound: '&cThe project #TERRACOTTA# does not exist.'
+  NoPermissions: '&cYou do not have permissions to do this.'

@@ -1,0 +1,31 @@
+config:
+   Language: "EN_en"
+   consumeItemInGamemode: true
+   crafting:
+     white: true
+     orange: true
+     magenta: true
+     light: true
+     yellow: true
+     lime: true
+     pink: true
+     gray: true
+     silver: true
+     cyan: true
+     purple: true
+     blue: true
+     invert_white: true
+     invert_orange: true
+     invert_magenta: true
+     invert_light: true
+     invert_yellow: true
+     invert_lime: true
+     invert_pink: true
+     invert_gray: true
+     invert_silver: true
+     invert_cyan: true
+     invert_purple: true
+     invert_blue: true
+   craftingMaterialForInvert: FLINT
+   craftingNormalEnable: true
+   craftingInvertEnable: true

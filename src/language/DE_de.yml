@@ -1,0 +1,6 @@
+message:
+  WrongArgument: '&cDu benutzt falsche Argumente.'
+  GivePlayer: '&aDer Spieler #PLAYER# hat #TERRACOTTA#(#AMOUNT#) glasierte Kermik erhalten.'
+  PlayerNotOnline: '&c#PLAYER# ist nicht Online.'
+  TerracottaNotFound: '&cDas glasierte Kermik #TERRACOTTA# existiert nicht.'
+  NoPermissions: '&cDazu hast du keine Berechtigung.'

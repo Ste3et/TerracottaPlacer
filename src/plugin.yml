@@ -1,0 +1,70 @@
+name: TerracottaPlacer
+version: 0.1a
+description: NA
+author: Ste3et_C0st
+website: http://dicecraft.de
+
+main: de.Ste3et_C0st.TerracottaPlacer.Main.TerracottaPlacerMain
+
+commands: 
+  terracotta:
+    description: terracotta placer main command
+    usage:  /<command>
+    
+permissions:
+  terracottaplacer.player:
+    children:
+      terracottaplacer.place.white: true
+      terracottaplacer.place.orange: true
+      terracottaplacer.place.magenta: true
+      terracottaplacer.place.light: true
+      terracottaplacer.place.yellow: true
+      terracottaplacer.place.lime: true
+      terracottaplacer.place.pink: true
+      terracottaplacer.place.gray: true
+      terracottaplacer.place.silver: true
+      terracottaplacer.place.cyan: true
+      terracottaplacer.place.purple: true
+      terracottaplacer.place.blue: true
+      terracottaplacer.place.invert_white: true
+      terracottaplacer.place.invert_orange: true
+      terracottaplacer.place.invert_magenta: true
+      terracottaplacer.place.invert_light: true
+      terracottaplacer.place.invert_yellow: true
+      terracottaplacer.place.invert_lime: true
+      terracottaplacer.place.invert_pink: true
+      terracottaplacer.place.invert_gray: true
+      terracottaplacer.place.invert_silver: true
+      terracottaplacer.place.invert_cyan: true
+      terracottaplacer.place.invert_purple: true
+      terracottaplacer.place.invert_blue: true
+      terracottaplacer.craft.white: true
+      terracottaplacer.craft.orange: true
+      terracottaplacer.craft.magenta: true
+      terracottaplacer.craft.light: true
+      terracottaplacer.craft.yellow: true
+      terracottaplacer.craft.lime: true
+      terracottaplacer.craft.pink: true
+      terracottaplacer.craft.gray: true
+      terracottaplacer.craft.silver: true
+      terracottaplacer.craft.cyan: true
+      terracottaplacer.craft.purple: true
+      terracottaplacer.craft.blue: true
+      terracottaplacer.craft.invert_white: true
+      terracottaplacer.craft.invert_orange: true
+      terracottaplacer.craft.invert_magenta: true
+      terracottaplacer.craft.invert_light: true
+      terracottaplacer.craft.invert_yellow: true
+      terracottaplacer.craft.invert_lime: true
+      terracottaplacer.craft.invert_pink: true
+      terracottaplacer.craft.invert_gray: true
+      terracottaplacer.craft.invert_silver: true
+      terracottaplacer.craft.invert_cyan: true
+      terracottaplacer.craft.invert_purple: true
+      terracottaplacer.craft.invert_blue: true
+  terracottaplacer.admin:
+    children:
+      terracottaplacer.give: true
+      terracottaplacer.give.another: true
+      terracottaplacer.list: true
+      terracottaplacer.help: true
